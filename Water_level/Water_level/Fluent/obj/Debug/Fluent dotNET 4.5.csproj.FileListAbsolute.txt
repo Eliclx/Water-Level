@@ -1,0 +1,31 @@
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.5\Debug\Fluent.dll
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.5\Debug\Fluent.pdb
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.5\Debug\System.Windows.Interactivity.dll
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent dotNET 4.5.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsSilver.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsBlue.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsBlack.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Blue.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Black.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Silver.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent_MarkupCompile.cache
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent_MarkupCompile.lref
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Generic.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2013\Controls\ApplicationMenu.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2013\Generic.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent.g.resources
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent.dll
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent.pdb
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Fluent dotNET 4.5.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsSilver.baml
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsBlue.baml
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsBlack.baml
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Themes\Office2010\Blue.baml
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Themes\Office2010\Black.baml
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Themes\Office2010\Silver.baml
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Fluent_MarkupCompile.cache
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Fluent_MarkupCompile.lref
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Fluent.dll
+C:\Users\LX\Desktop\Water_level\Water_level\Fluent\obj\Debug\Fluent.pdb

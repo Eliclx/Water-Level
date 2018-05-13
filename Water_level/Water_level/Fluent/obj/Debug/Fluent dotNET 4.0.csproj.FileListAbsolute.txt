@@ -1,0 +1,22 @@
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.0\Debug\Fluent.dll
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.0\Debug\Fluent.pdb
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.0\Debug\Microsoft.Windows.Shell.dll
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.0\Debug\System.Windows.Interactivity.dll
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.0\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\bin\NET 4.0\Debug\Microsoft.Windows.Shell.xml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent dotNET 4.0.csprojResolveAssemblyReference.cache
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsSilver.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsBlue.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Colors\ColorsBlack.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Blue.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Black.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2010\Silver.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent_MarkupCompile.cache
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent_MarkupCompile.lref
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Generic.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2013\Controls\ApplicationMenu.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Themes\Office2013\Generic.baml
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent.g.resources
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent.dll
+C:\Users\LX\Desktop\fluent\sourceCode\fluent\Fluent\Fluent\obj\Debug\Fluent.pdb
